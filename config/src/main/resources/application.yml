@@ -10,7 +10,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/baobeisensen/config
-          searchPaths: config/helloworldConfig
+          uri: https://github.com/baobeisensen/springCloud
+          searchPaths: config/devconfig
   application:
     name: config
